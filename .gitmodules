@@ -1,9 +1,12 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/prazny/chatter-backend.git
+	branch = main
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/prazny/chatter-frontend.git
+	branch = main
 [submodule "client"]
 	path = client
 	url = https://github.com/prazny/chatter-client.git
+	branch = main
